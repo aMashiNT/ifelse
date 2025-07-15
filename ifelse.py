@@ -4,3 +4,6 @@ if age >= 18:
     print("You are an adult.")
 else:
     print("You are a minor.")
+
+ output = "Age is 27 so You are an adult"
+ print(output)
