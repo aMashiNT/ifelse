@@ -8,3 +8,6 @@ else:
 
 output = "Age is 27 so You are an adult"
 print(output)
+
+output = "Age is 12 so You are a minor"
+print(output)
